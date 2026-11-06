@@ -1,6 +1,6 @@
-# 单晶沙漠 · The Monocrystalline Desert
+# 粉色沙漠 · The Pink Desert
 
-(原名 交趾洋上 · Upon the Sea of Jiaozhi)
+(原名 单晶沙漠 · The Monocrystalline Desert;更早叫 交趾洋上 · Upon the Sea of Jiaozhi)
 
 网页试玩版。北部湾一座虚构的半导体岛 Holince:《东亚制造》新闻系统每出一条新闻,岛上就从天上落下一个新闻包。拆开它,判断这条新闻属于半导体九层堆栈的哪一层;放对换进口额度,买机器、雇工人,开采石英、出口坩埚砂;放错,它会活过来,按新闻所属的层变成芯片、内存条、显卡或硬盘的样子来追你。
 
