@@ -1,8 +1,10 @@
-# 交趾洋上 · Upon the Sea of Jiaozhi
+# 单晶沙漠 · The Monocrystalline Desert
 
-网页试玩版。北部湾一座虚构的半导体岛 Holince:《东亚制造》新闻系统每出一条新闻,岛上就从天上落下一个新闻包。拆开它,判断这条新闻属于半导体九层堆栈的哪一层;放对换进口额度,买机器、雇工人,开采石英、出口坩埚砂;放错,它会变成一只芯片爬虫。
+(原名 交趾洋上 · Upon the Sea of Jiaozhi)
 
-A browser build of a game set on Holince, a fictional semiconductor island in the Gulf of Tonkin. Each news item from the East Asia Manufacturing news system falls from the sky as a package; sort it into the right layer of the nine-layer semiconductor stack to earn import credit, buy machines, hire crews, mine quartz and export crucible sand. Sort it wrong and it comes alive.
+网页试玩版。北部湾一座虚构的半导体岛 Holince:《东亚制造》新闻系统每出一条新闻,岛上就从天上落下一个新闻包。拆开它,判断这条新闻属于半导体九层堆栈的哪一层;放对换进口额度,买机器、雇工人,开采石英、出口坩埚砂;放错,它会活过来,按新闻所属的层变成芯片、内存条、显卡或硬盘的样子来追你。
+
+A browser build of a game set on Holince, a fictional semiconductor island in the Gulf of Tonkin. Each news item from the East Asia Manufacturing news system falls from the sky as a package; sort it into the right layer of the nine-layer semiconductor stack to earn import credit, buy machines, hire crews, mine quartz and export crucible sand. Sort it wrong and it comes alive, as a chip, a memory stick, a graphics card or a hard drive, by the layer it belongs in.
 
 **试玩:** https://tomaiwon.github.io/jiaozhi/ (电脑浏览器,需要键盘 · desktop browser with a keyboard)
 
